@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = ""
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Welcome to my personal website!"
+
+[author]
+image = "33407505_1919349441431645_2472007932321988608_n.jpg"
+name = "Srikrishna Datla 🐳"
+headline = "A full stack engineer (kinda) at JP Morgan Chase"
+links = [
+{ email = "mailto:sri_datla@live.co.uk" },
+{ github = "https://github.com/s-datla" },
+{ instagram = "https://instagram.com/some-random-images" },
+{ linkedin = "https://linkedin.com/in/srikrishnadatla" },
+]
