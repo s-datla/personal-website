@@ -13,7 +13,7 @@ description = "Welcome to my personal website!"
 [author]
 image = "33407505_1919349441431645_2472007932321988608_n.jpg"
 name = "Srikrishna Datla 🐳"
-headline = "A full stack engineer (kinda) at JP Morgan Chase"
+headline = "A backend engineer at JP Morgan Chase"
 links = [
 { email = "mailto:sri_datla@live.co.uk" },
 { github = "https://github.com/s-datla" },
